@@ -1,3 +1,4 @@
+Plant.destroy_all
 puts '🌱 Seeding plants...'
 
 Plant.create!([
